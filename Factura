@@ -1,9 +1,9 @@
 <xml versiaon="1.0"encoding="utf-8>
-<factura">"id""fecha"
+<factura""id""fecha">
    <"precio total" precio de venta al publico>
    <"articulos"precio id unitario precio final cantidad>
    <"idoo1"Camiseta manga larga "2018">
    <"id002"paraguas grande "2017">
    <"id003"bulto pegueño "2019">
    <"cliente""nombre""telefono">
- <"/factura">
+</factura>
